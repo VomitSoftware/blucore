@@ -1,0 +1,4 @@
+name: Blucore
+version: ${project.version}
+main: com.mintberia.blucore.Blucore
+api-version: 1.13
